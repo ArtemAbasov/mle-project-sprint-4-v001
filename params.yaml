@@ -1,0 +1,6 @@
+personal_als_path: 'recsys/recommendations/recommendations.parquet'
+top_popular_path: '/home/mle-user/mle-project-sprint-4-v001/mle-project-sprint-4-v001/recsys/recommendations/top_popular.parquet'
+items_path: 'recsys/data/items.parquet'
+als_model_path: 'recsys/model/als_model.pkl'
+N: 10
+k: 10
